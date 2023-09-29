@@ -1,0 +1,69 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+  font-size: 1.07rem;
+}
+
+.menu {
+  list-style-type: none;
+}
+
+.navbar ul {
+  margin-top: 25px;
+}
+
+.menu li {
+  display: inline;
+  margin-right: 2.7rem;
+}
+
+.menu li a {
+  text-decoration: none;
+}
+
+.menu-home a {
+  color: var(--primary-colour, #386a8b);
+   font-weight: 500;
+}
+
+.menu-aboutus a {
+  margin-right: 10rem;
+  color: black;
+  font-weight: 500;
+}
+
+.menu-login a {
+  color: black;
+   font-weight: 500;
+}
+
+.menu-getstarted a {
+  color: var(--primary-colour, #386a8b);
+  font-size: 1rem;
+  line-height: 1.2rem;
+}
+
+.menu-getstarted button {
+  padding: 10px 20px;
+  border: 1.8px solid var(--primary-colour, #386A8B);
+  outline: none;
+  background: white;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.menu-getstarted button:hover {
+    cursor: pointer;
+}
+
+.nav-item a {
+  color: black;
+   font-weight: 500;
+}
+
+.hero-img {
+  width: 100rem;
+  height: 36.875rem;
+}
