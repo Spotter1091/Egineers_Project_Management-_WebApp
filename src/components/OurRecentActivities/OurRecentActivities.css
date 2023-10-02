@@ -1,0 +1,17 @@
+.activities-container h2 {
+  font-size: 1.75rem;
+  margin-left: 9.3rem;
+  margin-bottom: 2rem;
+  
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Create 5 equal columns */ overflow: hidden;
+}
+
+.project-img {
+  width: 23.8rem;
+  height: 21.5rem;
+ 
+}

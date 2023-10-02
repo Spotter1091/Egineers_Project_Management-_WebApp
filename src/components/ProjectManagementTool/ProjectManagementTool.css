@@ -1,0 +1,57 @@
+.pmt-container {
+  display: flex;
+  width: 80%;
+  margin: 3.8rem auto ;
+  position: relative;
+  /* height: 50vh; */
+}
+
+.pmt-container h2 {
+    font-size: 1.75rem;
+   
+}
+
+/* .pmt-text-wrapper {
+    margin-right: -rem;
+} */
+
+.pmt-para-text {
+  margin-top: 1rem;
+  width: 75.8%;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 150%; /* 1.875rem */
+}
+
+.pmt-btn {
+  background: var(--primary-colour, #386a8b);
+  padding: 1rem 1.5rem;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 150%;
+  border: none;
+margin-top: 1.48rem;
+}
+
+/* .border-box-container {
+
+} */
+
+.border-box {
+  border: 4px solid var(--primary-colour, #386a8b);
+  width: 38.125rem;
+  height: 21.9375rem;
+  margin-right: 5.8rem;
+ 
+}
+
+.fact-img {
+  width: 38.125rem;
+  height: 21.9375rem;
+   position: absolute;
+  top: -6.5%;
+  right: 0%;
+  left: 44.6%;
+  
+}
