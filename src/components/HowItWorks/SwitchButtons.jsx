@@ -19,12 +19,9 @@ export default function SwitchButtons() {
             ) : (
                 <div>
                     <button className="button right-button" onClick={handleButtonClick}>For Engineers</button>
-                        <button className="button left-button" onClick={handleButtonClick}>Clients</button>
+                    <button className="button left-button" onClick={handleButtonClick}>Clients</button>
                 </div>
-
-
             )}
-
         </div>
     );
 };
